@@ -1,2 +1,2 @@
 # IAC-FlappyBird
-IST- Projeto IAC [15/16]
+IST - Introduction to Computer Architecture Project [1st year (15/16)]
